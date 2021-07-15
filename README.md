@@ -12,6 +12,8 @@
 ### Proyectos
 
 ##### VideogameApp
+###### Mi primer proyecto como full stack, en el utilicé las tecnologias (JavaScript, React, Redux, NodeJS, Express, PostgresSQL, Sequelize, CSS).
+###### Puedes buscar tus juegos favoritos, ver información detallada sobre ellos y crear tus propios juegos!
 ![video videogameApp](https://raw.githubusercontent.com/Gustavitory/Resources/master/viadeogameApp.gif)
 ###### Repository link [here](https://github.com/Gustavitory/PI-Videogames-FT13)
 
