@@ -7,7 +7,13 @@
   Me encanta cocinar :rice_cracker: , pintar 🎨 , tocar guitarra :guitar: y jugar al voleyball.
 
 ### Tech Skills
-![Imagen de presen](https://raw.githubusercontent.com/Gustavitory/Resources/master/skills.png)
+![Imagen de skills](https://raw.githubusercontent.com/Gustavitory/Resources/master/skills.png)
+
+### Proyectos
+
+##### VideogameApp
+![video videogameApp](https://raw.githubusercontent.com/Gustavitory/Resources/master/viadeogameApp.gif)
+###### Repository link [here](https://github.com/Gustavitory/PI-Videogames-FT13)
 
 <!---
 Gustavitory/Gustavitory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
