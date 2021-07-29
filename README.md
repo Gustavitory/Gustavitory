@@ -5,6 +5,10 @@
   Soy un gran entusiasta del aprendizaje :eyes:, siempre estoy abierto a aprender cosas nuevas, sobretodo aquellas que estan orientadas al mundo IT :computer: ,
   me gusta conocer nuevas personas y crear lazos de amistad :hand: , soy un fiel creyente de que con disciplina y humildad se puede llegar muy lejos.
   Me encanta cocinar :rice_cracker: , pintar 🎨 , tocar guitarra :guitar: y jugar al voleyball.
+  ¿Quieres saber mas?
+  Correo: ggrieraya@gmail.com
+  Linkedin: https://www.linkedin.com/in/gustavo-riera-fullstackdev/
+  Teléfono: +584243467694
 
 ### Tech Skills
 ![Imagen de skills](https://raw.githubusercontent.com/Gustavitory/Resources/master/skills.png)
