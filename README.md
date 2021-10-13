@@ -21,6 +21,11 @@
 ![video videogameApp](https://raw.githubusercontent.com/Gustavitory/Resources/master/viadeogameApp.gif)
 ###### Repository link [here](https://github.com/Gustavitory/PI-Videogames-FT13)
 
+##### El Gramófono
+  El Gramófono fue un proyecto que realicé junto a un grupo de trabajo altamente capacitado, bajo la metodología SCRUM y usando las siguientes tecnologías: React, Redux, Express, Sequelize, Node.js y PostgreSQL.
+  El Gramófono es un ecommerce orientado a la comercialización de instrumentos musicales, cuenta con interfaz de control exclusiva para administrador, pasarela de pagos, sistema de reviews, autenticación con Auth0, control de inventario y administración de carro de compras entre otras funcionalidades.
+  
+
 <!---
 Gustavitory/Gustavitory is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
