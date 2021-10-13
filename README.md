@@ -24,6 +24,7 @@
 ##### El Gramófono
   El Gramófono fue un proyecto que realicé junto a un grupo de trabajo altamente capacitado, bajo la metodología SCRUM y usando las siguientes tecnologías: React, Redux, Express, Sequelize, Node.js y PostgreSQL.
   El Gramófono es un ecommerce orientado a la comercialización de instrumentos musicales, cuenta con interfaz de control exclusiva para administrador, pasarela de pagos, sistema de reviews, autenticación con Auth0, control de inventario y administración de carro de compras entre otras funcionalidades.
+  ![El Gramofono](https://github.com/Gustavitory/Resources/blob/main/Captura%20de%20pantalla%20de%202021-10-13%2014-41-53.png)
   
 
 <!---
