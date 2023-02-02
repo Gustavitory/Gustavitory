@@ -39,6 +39,7 @@
   <img src="https://i.imgur.com/Fn2e0wQ.png" alt="nodejs" height="55" width="55"/>
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="55" width="55"/>
   <img src="https://api.iconify.design/vscode-icons:file-type-sass.svg" alt="html5" height="55" width="55"/>
+  <img src="https://api.iconify.design/vscode-icons:file-type-angular" alt="html5" height="55" width="55"/>
 <p>
 
   
