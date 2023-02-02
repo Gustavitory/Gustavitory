@@ -38,7 +38,7 @@
   <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+tailwind-1324451500323172563.png" alt="tailwind" height="55" width="55"/>
   <img src="https://i.imgur.com/Fn2e0wQ.png" alt="nodejs" height="55" width="55"/>
   <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="55" width="55"/>
-  <img src="https://api.iconify.design/skill-icons:sass" alt="html5" height="55" width="55"/>
+  <img src="https://api.iconify.design/vscode-icons:file-type-sass.svg" alt="html5" height="55" width="55"/>
 <p>
 
   
