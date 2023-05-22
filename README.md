@@ -15,6 +15,7 @@
 
 > 📧 Email: <a href="mailto:ggrieraya@gmail.com">**ggrieraya@gmail.com**</a>
 
+<p>If you want to know about my tech stack you can open the following link:</p>
 > 💼 [Portfolio](https://gr-brieffcase.vercel.app)
 <h3 align="left">Connect with me!</h3>
 <p align="left">
@@ -22,25 +23,6 @@
 </p>
 <br/>
 <br/>
-
-# Technologies
-
-<br/>
-<p align="center">
-  <img src="https://api.iconify.design/vscode-icons:file-type-html.svg" alt="html5" height="55" width="55"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-css.svg" alt="css3" height="55" width="55"/>
-  <img src="https://api.iconify.design/logos:javascript.svg" alt="javascript" height="55" width="55"/>
-  <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" alt="typescript" height="55" width="55"/>
-  <img src="https://api.iconify.design/logos:react.svg" alt="react" height="55" width="55"/>
-  <img src="https://api.iconify.design/logos:redux.svg" alt="redux" height="55" width="55"/>
-  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs" height="55" width="55"/>
-  <img src="https://i.imgur.com/eEjZJOm.png" alt="graphql" height="55" width="55"/>
-  <img src="https://icons-for-free.com/iconfiles/png/512/vscode+icons+type+tailwind-1324451500323172563.png" alt="tailwind" height="55" width="55"/>
-  <img src="https://i.imgur.com/Fn2e0wQ.png" alt="nodejs" height="55" width="55"/>
-  <img src="https://api.iconify.design/simple-icons:express.svg" alt="express" height="55" width="55"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-sass.svg" alt="html5" height="55" width="55"/>
-  <img src="https://api.iconify.design/vscode-icons:file-type-angular.svg" alt="html5" height="55" width="55"/>
-<p>
 
   
 
