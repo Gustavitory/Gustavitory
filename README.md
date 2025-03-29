@@ -16,7 +16,7 @@
 > 📧 Email: <a href="mailto:ggrieraya@gmail.com">**ggrieraya@gmail.com**</a>
 
 <p>If you want to know about my tech stack you can open the following link:</p>
-> 💼 [Portfolio](https://gr-brieffcase.vercel.app)
+> 💼 [Portfolio](https://grdev.vercel.app/)
 <h3 align="left">Connect with me!</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-riera-fullstackdev/" target="blank"><img align="center" src="https://api.iconify.design/logos:linkedin-icon.svg" alt="https://www.linkedin.com/in/guillermo-bravo-294499208/" height="30" width="40" /></a>Gustavo Riera
